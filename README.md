@@ -32,7 +32,7 @@ Based in Leeds, UK 🇬🇧. **Open to work in the UK and Europe.** 🚀
 | Project | What it does | Result |
 |---|---|---|
 | 🌌 [Galaxy Morphology CNN](https://github.com/cicone170/galaxy-morphology-cnn) | Tells spiral galaxies from elliptical ones, using a CNN and ResNet18 | 86.8% accuracy, AUC 0.943 |
-| 🍇 [Grape Detection](https://github.com/cicone170/grape-detection) | Finds grapes in images with deep learning. Made for robot harvesting | (add your result) |
+| 🍇 [Grape Detection](https://github.com/cicone170/grape-detection) | Finds grapes in images with deep learning. Made for robot harvesting | () |
 | 🌳 Family Tree App | An app to build and explore your family tree | In progress 🚧 |
 
 ---
