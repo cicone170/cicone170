@@ -8,7 +8,7 @@ Based in Leeds, UK 🇬🇧. **Open to work in the UK and Europe.** 🚀
 ---
 
 ## 🔭 What I'm up to
-- 🚀 Building a loyalty card startup with friends. Business owners add cards to Apple and Google Wallet.
+- 🚀 Building AI and ML projects
 - 🌳 Building a family tree app.
 - 🌱 Building new projects to sharpen my skills.
 
