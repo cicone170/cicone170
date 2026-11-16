@@ -9,7 +9,7 @@ Based in Leeds, UK 🇬🇧. **Open to work in the UK and Europe.** 🚀
 
 ## 🔭 What I'm up to
 - 🚀 Building a loyalty card startup with friends. Business owners add cards to Apple and Google Wallet.
-- 📊 Working on business analytics projects with SQL and dashboards.
+- 🌳 Building a family tree app.
 - 🌱 Building new projects to sharpen my skills.
 
 ---
@@ -33,7 +33,7 @@ Based in Leeds, UK 🇬🇧. **Open to work in the UK and Europe.** 🚀
 |---|---|---|
 | 🌌 [Galaxy Morphology CNN](https://github.com/cicone170/galaxy-morphology-cnn) | Tells spiral galaxies from elliptical ones, using a CNN and ResNet18 | 86.8% accuracy, AUC 0.943 |
 | 🍇 [Grape Detection](https://github.com/cicone170/grape-detection) | Finds grapes in images with deep learning. Made for robot harvesting | (add your result) |
-| 📊 Business Analytics Project | SQL + a dashboard + clear recommendations | Coming soon 🚧 |
+| 🌳 Family Tree App | An app to build and explore your family tree | In progress 🚧 |
 
 ---
 
